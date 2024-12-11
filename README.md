@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on analyzing **negative user reviews** from the Google Play Store. The primary goal is to uncover insights and categorize negative feedback to help the product team improve the app and address user concerns. The analysis leverages **NLP techniques** (using NLTK) and **K-means clustering** (using scikit-learn) to identify themes and patterns in the reviews.
 
-## Key Objectives
+## Key Objectives :
 1. **Preprocessing Text Data**  
    - Tokenize reviews.
    - Remove stop words and non-alphanumeric characters.
